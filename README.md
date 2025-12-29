@@ -166,4 +166,4 @@ res.send(data);
 
 <img width="1115" height="126" alt="链接" src="https://github.com/user-attachments/assets/f888cc09-3a7a-4c58-8443-b330e5127acb" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
