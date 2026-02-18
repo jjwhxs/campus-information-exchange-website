@@ -162,8 +162,6 @@ res.send(data);
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1115" height="126" alt="链接" src="https://github.com/user-attachments/assets/f888cc09-3a7a-4c58-8443-b330e5127acb" />
+访问链接：https://mbd.pub/o/bread/mbd-YZWXkppuZw==
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
